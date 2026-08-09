@@ -27,7 +27,7 @@
 | 18 | [HeadGo Ego](https://www.foxtech.com) | Foxtech | 双目+RGB×1 | 未公开 | 150°D/128°H/80°V | 9 轴 IMU | 未公开 | 未公开 | 未公开 | 用户提供 |
 | 19 | [Tobii Pro Glasses 3](https://www.tobii.com) | Tobii | 场景相机+4 眼动传感器 | 1920×1080 @25fps | 106°H | 未公开 | 未公开 | 76.5g | 未公开 | [tobii.com](https://www.tobii.com) |
 | 20 | [LANYVE-OMNI 4P](https://www.aili-light.com) | 艾利光 | 四目同步 | 720P×4 | 220° | 500Hz 高频 IMU | 未公开 | <60g | 未公开 | [aili-light.com](https://www.aili-light.com) |
-| 21 | [Lynx HS600](http://www.teledyneoptech.com/en/products/mobile-survey/lynx-hs600/) | Teledyne Optech | 车载移动测绘系统 | 未公开 | 360°（无遮挡） | 未公开 | 未公开 | 未公开 | 未公开 | [teledyneoptech.com](http://www.teledyneoptech.com/en/products/mobile-survey/lynx-hs600/) [citation:1] |
+| 21 | [Lynx HS600](http://www.teledyneoptech.com/en/products/mobile-survey/lynx-hs600/) | Teledyne Optech | 车载移动测绘系统 | 未公开 | 360°（无遮挡） | 未公开 | 未公开 | 未公开 | 未公开 | [teledyneoptech.com](http://www.teledyneoptech.com/en/products/mobile-survey/lynx-hs600/) |
 | 22 | [MEgo Gripper](https://news.ifeng.com/c/8u3Sm70A3pQ) | 觅蜂科技 | 二指夹爪+视觉 | 1080P @60fps | 200° 鱼眼 | 未公开 | 未公开 | 480g | 未公开 | [凤凰网报道](https://news.ifeng.com/c/8u3Sm70A3pQ) |
 | 23 | [深度机智 头戴式](https://deepcybo.top) | 深度机智 | 头戴感知模块 | 未公开 | 未公开 | 未公开 | 未公开 | 分体式设计 | 未公开 | [deepcybo.top](https://deepcybo.top) |
 | 24 | [灵初智能 外骨骼手套](https://www.psibot.ai) | 灵初智能 | 视觉+触觉+关节传感 | 未公开 | 未公开 | 未公开 | 未公开 | 轻量化 | 未公开 | [psibot.ai](https://www.psibot.ai) |
@@ -40,10 +40,12 @@
 | 31 | [TOBI E2](https://www.tobi.cn) | TOBI 拓比科技 | 多路传感器阵列 | 未公开 | 全景覆盖 | 未公开 | 未公开 | 未公开 | 未公开 | [tobi.cn](https://www.tobi.cn/portal/resolve/resolve_03) |
 | 32 | [TOBI E6](https://www.tobi.cn) | TOBI 拓比科技 | 6 路相机硬同步 | 未公开 | DFOV 200° | 未公开 | 未公开 | 370g | 未公开 | [tobi.cn](https://www.tobi.cn/portal/resolve/resolve_03) |
 | 33 | [TOBI E8](https://www.tobi.cn) | TOBI 拓比科技 | 多模态旗舰 | 未公开 | 270°FOV | 未公开 | 未公开 | 未公开 | 未公开 | [tobi.cn](https://www.tobi.cn/portal/resolve/resolve_03) |
-| 34 | [Delta D1](https://deltai.com/) | 德塔智能 | 头戴式全身全景采集 | 未公开 | 全景 | 未公开 | 未公开 | 未公开 | 未公开 | [经济日报报道](http://rss.jingjiribao.cn/static/detail.jsp?id=673023) [citation:9] |
-| 35 | [美格智能 数采方案](https://www.meigsmart.com/articledetail/632.html) | 美格智能 | AI模组+可穿戴/多视角 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [钛媒体报道](https://m.tmtpost.com/nictation/8089069.html) [citation:4] |
+| 34 | [Delta D1](https://deltai.com/) | 德塔智能 | 头戴式全身全景采集 | 未公开 | 全景 | 未公开 | 未公开 | 未公开 | 未公开 | [经济日报报道](http://rss.jingjiribao.cn/static/detail.jsp?id=673023) |
+| 35 | [美格智能 数采方案](https://www.meigsmart.com/articledetail/632.html) | 美格智能 | AI模组+可穿戴/多视角 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [钛媒体报道](https://m.tmtpost.com/nictation/8089069.html) |
 | 36 | [AH-D 双目面捕头盔](https://m.virdync.com/cn/h-nd-1651.html) | 虚拟动力（Virdync） | 双目摄像头 | 未公开 | 未公开 | 未公开 | 未公开 | 320g | 未公开 | [virdync.com](https://m.virdync.com/cn/h-nd-1651.html) |
-
+| 37 | [SenseHub](https://www.tars.com) | 它石智航（TARS） | 五指/两指手套 + 第一视角摄像机 | 未公开 | 未公开 | IMU | 未公开 | 轻量化 | 未公开 | [网易报道](https://m.163.com/dy/article/KKOM5TA505568W0A.html) |
+| 38 | [StellarNex DualEgo](https://www.xiaohongshu.com/explore/6a54a21e0000000015026726?xsec_token=ABMiCZ7943Dh8x03-zchVss8TDWjaJGzebR8wrY5zaNBU=&xsec_source=pc_search&source=web_explore_feed) | 星际硅途 | 动作捕捉+视觉感知+语义标注 | 未公开 | 未公开 | IMU | 未公开 | 未公开 | 未公开 | [交大报道](https://itf.sjtu.edu.cn/itf/news/96010.html |
+| 39 | [BeingBeyond OpenMMEgo](https://github.com/BeingBeyond/OpenMMEgo) | 智在无界（BeingBeyond） | 第一人称视频数据平台 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [GitHub](https://github.com/BeingBeyond/OpenMMEgo) |
 
 ## 详细说明
 
