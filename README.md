@@ -46,6 +46,7 @@
 | 37 | [SenseHub](https://www.tars.com) | 它石智航（TARS） | 五指/两指手套 + 第一视角摄像机 | 未公开 | 未公开 | IMU | 未公开 | 轻量化 | 未公开 | [网易报道](https://m.163.com/dy/article/KKOM5TA505568W0A.html) |
 | 38 | [StellarNex DualEgo](https://www.xiaohongshu.com/explore/6a54a21e0000000015026726?xsec_token=ABMiCZ7943Dh8x03-zchVss8TDWjaJGzebR8wrY5zaNBU=&xsec_source=pc_search&source=web_explore_feed) | 星际硅途 | 动作捕捉+视觉感知+语义标注 | 未公开 | 未公开 | IMU | 未公开 | 未公开 | 未公开 | [交大报道](https://itf.sjtu.edu.cn/itf/news/96010.html |
 | 39 | [BeingBeyond OpenMMEgo](https://github.com/BeingBeyond/OpenMMEgo) | 智在无界（BeingBeyond） | 第一人称视频数据平台 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [GitHub](https://github.com/BeingBeyond/OpenMMEgo) |
+| 40 | [ACE Ego Kit](https://m.thepaper.cn/newsDetail_forward_33624017) | 大晓机器人 | 头-手-胸 三位一体采集套件 | 未公开 | 未公开 | 支持（多传感器融合） | 未公开 | 轻量化设计 | 未公开 | [大晓机器人发布全套物理AI核心成果，推动机器人落地商用｜WAIC 2026]([https://github.com/BeingBeyond/OpenMMEgo](https://m.thepaper.cn/newsDetail_forward_33624017)) |
 
 ## 详细说明
 
