@@ -61,6 +61,9 @@
 | 38 | [StellarNex DualEgo](https://www.xiaohongshu.com/explore/6a54a21e0000000015026726?xsec_token=ABMiCZ7943Dh8x03-zchVss8TDWjaJGzebR8wrY5zaNBU=&xsec_source=pc_search&source=web_explore_feed) | 星际硅途 | 动作捕捉+视觉感知+语义标注 | 未公开 | 未公开 | IMU | 未公开 | 未公开 | 未公开 | [交大报道](https://itf.sjtu.edu.cn/itf/news/96010.html |
 | 39 | [BeingBeyond OpenMMEgo](https://github.com/BeingBeyond/OpenMMEgo) | 智在无界（BeingBeyond） | 第一人称视频数据平台 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [GitHub](https://github.com/BeingBeyond/OpenMMEgo) |
 | 40 | [ACE Ego Kit](https://m.thepaper.cn/newsDetail_forward_33624017) | 大晓机器人 | 头-手-胸 三位一体采集套件 | 未公开 | 未公开 | 支持（多传感器融合） | 未公开 | 轻量化设计 | 未公开 | [大晓机器人发布全套物理AI核心成果，推动机器人落地商用｜WAIC 2026](https://m.thepaper.cn/newsDetail_forward_33624017) |
+| 41 | EGOK | 景烁科技 | 双目RGB+近红外视觉阵列 Ego-Centric采集设备 | 4M像素 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [小红书报道](https://www.xiaohongshu.com/discovery/item/6a7c3020000000000502a8e0?source=webshare&xhsshare=pc_web&xsec_token=ABHsBiLKF1bkvbTB3F4qILZNiKw7uzQ6RezTwUx0E9s08=&xsec_source=pc_share) |
+
+## 详细说明
 
 ## 详细说明
 
