@@ -62,6 +62,7 @@
 | 39 | [BeingBeyond OpenMMEgo](https://github.com/BeingBeyond/OpenMMEgo) | 智在无界（BeingBeyond） | 第一人称视频数据平台 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [GitHub](https://github.com/BeingBeyond/OpenMMEgo) |
 | 40 | [ACE Ego Kit](https://m.thepaper.cn/newsDetail_forward_33624017) | 大晓机器人 | 头-手-胸 三位一体采集套件 | 未公开 | 未公开 | 支持（多传感器融合） | 未公开 | 轻量化设计 | 未公开 | [大晓机器人发布全套物理AI核心成果，推动机器人落地商用｜WAIC 2026](https://m.thepaper.cn/newsDetail_forward_33624017) |
 | 41 | EGOK | 景烁科技 | 双目RGB+近红外视觉阵列 Ego-Centric采集设备 | 4M像素 | 未公开 | 未公开 | 未公开 | 未公开 | 未公开 | [小红书报道](https://www.xiaohongshu.com/discovery/item/6a7c3020000000000502a8e0?source=webshare&xhsshare=pc_web&xsec_token=ABHsBiLKF1bkvbTB3F4qILZNiKw7uzQ6RezTwUx0E9s08=&xsec_source=pc_share) |
+| 42 | [ego1gs](https://www.xiaohongshu.com/discovery/item/6a7d2d7f000000002c000fbd?source=webshare&xhsshare=pc_web&xsec_token=ABXyevF_-sCw2THOM-IYNip5gckDDUwTJauL4Hwx6zDAo=&xsec_source=pc_share) | 极智动量 | 双目RGB Ego-Centric采集设备 | 1080P像素 |  157H 84D大fov| 1x400hz IMU | 未公开 | 未公开 | 未公开 | [小红书报道](https://www.xiaohongshu.com/discovery/item/6a7d2d7f000000002c000fbd?source=webshare&xhsshare=pc_web&xsec_token=ABXyevF_-sCw2THOM-IYNip5gckDDUwTJauL4Hwx6zDAo=&xsec_source=pc_share) |
 
 ## 详细说明
 
