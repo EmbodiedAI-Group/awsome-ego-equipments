@@ -67,6 +67,8 @@
 | 44 | [EgoEasy](https://baijiahao.baidu.com/s?id=1876217591779128744&wfr=spider&for=pc) | YeeGooAI | 双目RGB Ego-Centric采集设备 | 1080P像素 | 未透露 | 未公开 | 未公开 | 未公开 | 1499/2499 | [YeeGooAI发布EgoEasy](https://leaderobot.com/news/9594) |
 | 45 | [HAMPO Ego Camera](https://www.hampotech.com/zh/news/hampo-ego-camera-a-first-person-head-mounted-binocular-data-camera-with-built-in-imu-and-hardware-synchronization/) | 翰普 | 双目RGB Ego-Centric采集设备 | 1080P像素 | 125D | 未公开 | 未公开 | 未公开 | 未公开 | [Hampo EGO相机](https://www.hampotech.com/zh/news/hampo-ego-camera-a-first-person-head-mounted-binocular-data-camera-with-built-in-imu-and-hardware-synchronization/) |
 | 46 | [SeerFusion One](https://www.xvisiotech.com/SeerController) | 诠视科技 | 双目RGB+双目鱼眼 Ego-Centric采集设备 | 1080P像素 | DFOV179.2°；HFOV159°；VFOV95°； | 未公开 | 未公开 | 未公开 | 未公开 | [数据堂携手诠视科技即将亮相IROS 2026，邀您现场体验Ego-Centric数据采集](https://www.datatang.com/news/1241) |
+| 47 | [CameVision EGO](https://camemake.github.io/CameVision-Ego/zh/) | Camemake（ODM） | 双目全局快门 + 双 6 轴 IMU，硬件同步，基线 75 mm，默认同步触发 12.5 fps。演示软件（MIT）与数据手册、光学、硬件、传感器文档公开 | 1920×1200（SC233HGS 等；另有 1600×1200、1600×1400、2592×1944） | D160° / H144° / V100°（SC233HGS，2G4P） | 2× LSM6DSVQTR，HUD 默认 480 Hz | 未公开 | 未公开 | USD 235–255 | [开源文档](https://camemake.github.io/CameVision-Ego/zh/datasheet.html) |
+| 48 | [CameVision Ego Single Sensor](https://camemake.github.io/CameVision-Ego-Single-Sensor/zh/) | Camemake（ODM） | 单目全局快门 + 1×6 轴 IMU。演示固件（MIT）与数据手册、光学、硬件、传感器文档公开 | 1920×1200（SC233HGS 等；另有 1600×1200、1600×1400、2592×1944） | D160° / H144° / V100°（SC233HGS，2G4P） | 1× LSM6DSVQTR，HUD 默认 480 Hz | 未公开 | 未公开 | USD 185–205 | [开源文档](https://camemake.github.io/CameVision-Ego-Single-Sensor/zh/datasheet.html) |
 
 ## 详细说明
 
@@ -100,4 +102,4 @@ Ego 第一人称采集是目前具身智能数据采集中被认为兼具**轻�
 
 ---
 
-*最后更新：2026 年 8 月*
+*最后更新：2026 年 10 月*
